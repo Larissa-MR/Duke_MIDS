@@ -1,4 +1,4 @@
-“Constant 2010 US$ change! ”
+“Constant 2010 US$ changEEE! ”
 
 # GDP_and_CO2 
 for data science class 
